@@ -54,3 +54,5 @@ rotated_img = cv2.rotate(flipped_img, cv2.ROTATE_90_COUNTERCLOCKWISE)
 
 # Save the modified image
 cv2.imwrite('C:\code stuff\Code Stuff\ROBOCUP\BackgroundE.bmp', cv2.cvtColor(rotated_img, cv2.COLOR_RGB2BGR))
+#test
+
